@@ -19,9 +19,9 @@ Hi, I'm MD. Mahedi Hassan Shuvo. I'm a Front-End Web Developer. I make any profe
 
 <h2 align="left">☕Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/mhshuvo6795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhshuvo6795" height="30" width="40" /></a>
-<a href="https://fb.com/shvuo6795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shvuo6795" height="30" width="40" /></a>
-<a href="https://instagram.com/mdmahedihassanshuvo95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmahedihassanshuvo95" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhshuvo6795" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100041484214481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shvuo6795" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmahedihassanshuvo95" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
